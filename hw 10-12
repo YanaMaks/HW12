@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="../HW12/HW10-12.html">HW10-12</a></td></tr>
+<tr><td><a href="../HW12/log in ok.html">log in ok</a></td></tr>
+<tr><td><a href="../HW12/empty password.html">empty password</a></td></tr>
+<tr><td><a href="../HW12/empty username.html">empty username</a></td></tr>
+<tr><td><a href="../HW12/wrong password.html">wrong password</a></td></tr>
+<tr><td><a href="../HW12/wrong username.html">wrong username</a></td></tr>
+<tr><td><a href="../HW12/new user stranger.html">new user stranger</a></td></tr>
+</tbody></table>
+</body>
+</html>
